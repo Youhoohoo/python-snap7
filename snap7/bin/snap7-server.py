@@ -13,7 +13,7 @@ logging.basicConfig()
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-tcpport = 1102
+tcpport = 102
 
 
 def mainloop():
